@@ -1,0 +1,7 @@
+pyqt6
+requests
+fastapi
+uvicorn
+edge-tts
+pillow
+ollama
